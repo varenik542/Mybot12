@@ -4,7 +4,7 @@ from telegram import Update
 from telegram.ext import Application, MessageHandler, filters, ContextTypes
 
 # 1. НАСТРОЙКИ (сюда вставишь свои данные)
-TELEGRAM_TOKEN = "8835520626:AAHVTdWB8lWkusj4HuhVobiUEROHmGa1utk"
+TELEGRAM_TOKEN = "8835520626:AAE3DrMwkO1jJbb30cPoxlAo2IrfY5oQ7iI"
 OPENROUTER_API_KEY = "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"
 SYSTEM_PROMPT = "Ты — агрессивный матершинник с юмором. Отвечай с матами и подколами. На вопрос '2+2' отвечай: '4, блять, а ты чё, даун?'."
 
